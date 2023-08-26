@@ -1,4 +1,4 @@
-# ***Deteksi Kerusakan Bearing dengan Menggunakan Pemrosesan Sinyal FFT dan Klasifikasi Machine Learning.***
+# ***Analisis Keadaan Bearing dengan FFT dan Model Machine Learning Berbasis Pohon Keputusan untuk Pemeliharaan Prediktif***
 ---
 # Domain Proyek
 ---
